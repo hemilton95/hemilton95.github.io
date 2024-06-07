@@ -2,7 +2,8 @@
 # About 
 Dynamic and results-oriented Data Specialist with over 5 years of experience in Monitoring, Learning, and Evaluation, data management systems implementation, and data analysis within the development sector. 
 
-### Technical Proficiencies: Programming Languages
+## Technical Proficiencies: 
+#### Programming Languages
 Python, SQL, R
 
 #### Tools & Platforms
