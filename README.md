@@ -29,3 +29,6 @@ Public Health Informatics
 The study involved the determination of the prevalence and pattern of CHDs in a population and hospital-based setting. Meta-analysis was conducted to identify statistical significance with studies that have conflicting results. To develop a more correct estimate of effect magnitude. 
 ![alt text](images/funnel_plot_hospital.png)
 ![alt text](images/pop_forest_plot.png)
+
+### The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach.
+The study examined the post-implementation of the amended Act 525, the change in structure in terms of the composition of teaching hospital boards and assessed the change in level functioning (if any) as well as to determine whether there is any association between key compositional factors the functioning of teaching hospital boards.
