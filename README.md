@@ -14,3 +14,6 @@ Public Health Informatics
 - Analyzing Research data with Excel, SPSS, Jamovi, Stata, SQL, R, and Python
 - Led quantitative, qualitative, and meta-analysis research
 - Conducted literature reviews, and designed research methodologies for studies.
+
+## ProjectsProjects
+### Prevalence of congenital heart diseases in the population-based studies and the hospital-based studies
