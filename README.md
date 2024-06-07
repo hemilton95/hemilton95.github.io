@@ -18,5 +18,5 @@ Public Health Informatics
 ## ProjectsProjects
 ### Prevalence of congenital heart diseases (CHD) in the population-based studies and the hospital-based studies
 The study involved the determination of the prevalence and pattern of CHDs in a population and hospital-based setting. Meta-analysis was conducted to identify statistical significance with studies that have conflicting results. To develop a more correct estimate of effect magnitude. 
-images/funnel_plot_hospital.png
+![alt text](images/funnel_plot_hospital.png)
 
