@@ -29,5 +29,3 @@ Public Health Informatics
 The study involved the determination of the prevalence and pattern of CHDs in a population and hospital-based setting. Meta-analysis was conducted to identify statistical significance with studies that have conflicting results. To develop a more correct estimate of effect magnitude. 
 ![alt text](images/funnel_plot_hospital.png)
 ![alt text](images/pop_forest_plot.png)
-
-[title](https://www.linkedin.com/in/milton-henschel/details/projects/1706009628448/single-media-viewer?type=DOCUMENT&profileId=ACoAAC4UkjkBp9XSoAN2RlpL1NQdI-S2q5WUto0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BKCx0yH%2B5TZiy6NmFBy4b2A%3D%3D)
