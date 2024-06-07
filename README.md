@@ -40,22 +40,27 @@ This section shows dashboards designed using MS Power BI.
 I led the design and deployment of electronic data collection tools for clinical research leveraging on ODK server.
 **[A link to the XLS form used for this study](https://docs.google.com/spreadsheets/d/1yqK-CSz6mz5PmnI3Ib46dz1Vnb2j17Xj/edit?usp=sharing&ouid=103805631759623650249&rtpof=true&sd=true)**
 
-## 5. Developed and Configured Electronic Health Records System on EPI Info
+## 5. DHIS2 Customization
+The purpose of the project was to create an aggregate data collection tool for health data.
+Relevant metadata such as organization units, data elements, and category combinations were created to produce the desired results.
+**[Overview of assignment](https://www.linkedin.com/in/milton-henschel/overlay/urn:li:fsd_profileProject:(ACoAAC4UkjkBp9XSoAN2RlpL1NQdI-S2q5WUto0,907608223)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAC4UkjkBp9XSoAN2RlpL1NQdI-S2q5WUto0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1ilF3ls4QSivfRbJF%2Fw8Qw%3D%3D)**
+
+## 6. Developed and Configured Electronic Health Records System on EPI Info
 After completing my internship at Ghana Health Service in 2019, I realized a particular need in the district I served. There was a need for an electronic health record system to handle patient data. As a health information officer, I started looking for ways to help them out. I reviewed how effectively I could use Epi Info to help them. I learned that to have a good EHR, whatever option set or parameter I use should meet the objective. I took the patient folder and developed an EHR using Epi Info. Later on, I targeted one facility in the best performing sub-district, installed the software on their laptop, added the prj file, and left for Cape Coast.
 It has reduced the cost of purchasing hard copies for paper records keeping as well as reduced patient stay or waiting hours during health care. 
 **[Just watch this short video about the project ](https://www.linkedin.com/feed/update/urn:li:activity:6933176829847482368/)**
 
-## 6. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach
+## 7. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach
 The study examined the post-implementation of the amended Act 525, the change in structure in terms of the composition of teaching hospital boards and assessed the change in level functioning (if any) as well as to determine whether there is any association between key compositional factors the functioning of teaching hospital boards.
 
-## 7. Factors Influencing High Prevalence of Multi-Drug Resistance TB in Cape Coast Teaching Hospital
+## 8. Factors Influencing High Prevalence of Multi-Drug Resistance TB in Cape Coast Teaching Hospital
 The purpose of the study was to determine the factors influencing the high prevalence of multi-drug resistance TB in Cape Coast Teaching Hospital. The project was deployed on KoboToolbox and data was imported to STATA for data analysis.
 
-## 8. The Role of Social Support in Mitigating Academic Stress of Some Second Cycle School Students in The Wa Municipality of The Upper West Region of Ghana
+## 9. The Role of Social Support in Mitigating Academic Stress of Some Second Cycle School Students in The Wa Municipality of The Upper West Region of Ghana
 The main objective of the study is to assess the role of social support in mitigating the academic stress of second-cycle school students.
 
-## 9. Prevalence and Correlates of Stillbirths Recorded at The Cape Coast Teaching Hospital (CCTH) from 2015-2021
+## 10. Prevalence and Correlates of Stillbirths Recorded at The Cape Coast Teaching Hospital (CCTH) from 2015-2021
 This study seeks to find out the prevalence of stillbirths recorded at CCTH within the time period and if the causes can be attributed to low socio-economic status, number of antenatal visits, and maternal or fetal conditions. I directly managed and analyzed the data for this project.
 
-## 10. Assessment of Nurses Personal Counseling Competencies in Bereavement Care at the Tamale Teaching Hospital
+## 11. Assessment of Nurses Personal Counseling Competencies in Bereavement Care at the Tamale Teaching Hospital
 The aim of this project was to assess nurses’ competencies in bereavement and to identify their training needs. I served as the Data Analyst for this project and used SPSS to analyze the data for this study.
