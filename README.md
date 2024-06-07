@@ -13,8 +13,8 @@ Public Health Informatics
 
 ## Work Experience
 ### Learning and Data Specialist
-#### 2018 - Present
-[LinkedIn](https://www.linkedin.com/in/milton-henschel/)
+*#### 2018 - Present*
+**[LinkedIn](https://www.linkedin.com/in/milton-henschel/)**
 
 # Projects
 ## 1. Analysis of determinants and correlates of hypertension
