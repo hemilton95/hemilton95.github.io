@@ -2,7 +2,7 @@
 # About 
 Milton is a dynamic and results-oriented Data Specialist with over 5 years of experience in Monitoring, Learning, and Evaluation, data management systems implementation, and data analysis within the development sector. 
 
-## Technical Proficiencies: 
+## Technical Proficiencies
 #### Programming Languages
 Python, SQL, R
 
@@ -24,7 +24,7 @@ Public Health Informatics
 - Led quantitative, qualitative, and meta-analysis research
 - Conducted literature reviews, and designed research methodologies for studies.
 
-## ProjectsProjects
+## Projects
 ### Prevalence of congenital heart diseases (CHD) in the population-based studies and the hospital-based studies
 The study involved the determination of the prevalence and pattern of CHDs in a population and hospital-based setting. Meta-analysis was conducted to identify statistical significance with studies that have conflicting results. To develop a more correct estimate of effect magnitude. 
 ![alt text](images/funnel_plot_hospital.png)
