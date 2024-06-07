@@ -16,4 +16,7 @@ Public Health Informatics
 - Conducted literature reviews, and designed research methodologies for studies.
 
 ## ProjectsProjects
-### Prevalence of congenital heart diseases in the population-based studies and the hospital-based studies
+### Prevalence of congenital heart diseases (CHD) in the population-based studies and the hospital-based studies
+The study involved the determination of the prevalence and pattern of CHDs in a population and hospital-based setting. Meta-analysis was conducted to identify statistical significance with studies that have conflicting results. To develop a more correct estimate of effect magnitude. 
+images/funnel_plot_hospital.png
+
