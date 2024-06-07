@@ -45,5 +45,17 @@ After completing my internship at Ghana Health Service in 2019, I realized a par
 It has reduced the cost of purchasing hard copies for paper records keeping as well as reduced patient stay or waiting hours during health care. 
 **[Just watch this short video about the project ](https://www.linkedin.com/feed/update/urn:li:activity:6933176829847482368/)**
 
-## 6. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach.
+## 6. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach
 The study examined the post-implementation of the amended Act 525, the change in structure in terms of the composition of teaching hospital boards and assessed the change in level functioning (if any) as well as to determine whether there is any association between key compositional factors the functioning of teaching hospital boards.
+
+## 7. Factors Influencing High Prevalence of Multi-Drug Resistance TB in Cape Coast Teaching Hospital
+The purpose of the study was to determine the factors influencing the high prevalence of multi-drug resistance TB in Cape Coast Teaching Hospital. The project was deployed on KoboToolbox and data was imported to STATA for data analysis.
+
+## 8. The Role of Social Support in Mitigating Academic Stress of Some Second Cycle School Students in The Wa Municipality of The Upper West Region of Ghana
+The main objective of the study is to assess the role of social support in mitigating the academic stress of second-cycle school students.
+
+## 9. Prevalence and Correlates of Stillbirths Recorded at The Cape Coast Teaching Hospital (CCTH) from 2015-2021
+This study seeks to find out the prevalence of stillbirths recorded at CCTH within the time period and if the causes can be attributed to low socio-economic status, number of antenatal visits, and maternal or fetal conditions. I directly managed and analyzed the data for this project.
+
+## 10. Assessment of Nurses Personal Counseling Competencies in Bereavement Care at the Tamale Teaching Hospital
+The aim of this project was to assess nurses’ competencies in bereavement and to identify their training needs. I served as the Data Analyst for this project and used SPSS to analyze the data for this study.
