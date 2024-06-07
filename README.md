@@ -1,6 +1,6 @@
 # Data Specialist
 # About 
-Dynamic and results-oriented Data Specialist with over 5 years of experience in Monitoring, Learning, and Evaluation, data management systems implementation, and data analysis within the development sector. 
+Milton is a dynamic and results-oriented Data Specialist with over 5 years of experience in Monitoring, Learning, and Evaluation, data management systems implementation, and data analysis within the development sector. 
 
 ## Technical Proficiencies: 
 #### Programming Languages
