@@ -32,7 +32,7 @@ The study involved the determination of the prevalence and pattern of CHDs in a 
 ![alt text](images/pop_forest_plot.png)
 
 ## 3. Power BI Skillset
-This section provides some charts designed using MS Power BI.
+This section shows dashboards designed using MS Power BI.
 ![alt text](images/pbi_dat.PNG)
 
 ## 4. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach.
