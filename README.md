@@ -13,7 +13,7 @@ Public Health Informatics
 
 ## Work Experience
 ### Learning and Data Specialist
-*#### 2018 - Present*
+#### *2018 - Present*
 **[LinkedIn](https://www.linkedin.com/in/milton-henschel/)**
 
 # Projects
