@@ -35,5 +35,9 @@ The study involved the determination of the prevalence and pattern of CHDs in a 
 This section shows dashboards designed using MS Power BI.
 ![alt text](images/pbi_dat.PNG)
 
-## 4. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach.
+## 4. ODK XLS Form Development
+I led the design and deployment of electronic data collection tools for clinical research leveraging on ODK server.
+**[A link to the XLS form used for this study](https://docs.google.com/spreadsheets/d/1yqK-CSz6mz5PmnI3Ib46dz1Vnb2j17Xj/edit?usp=sharing&ouid=103805631759623650249&rtpof=true&sd=true)**
+
+## 5. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach.
 The study examined the post-implementation of the amended Act 525, the change in structure in terms of the composition of teaching hospital boards and assessed the change in level functioning (if any) as well as to determine whether there is any association between key compositional factors the functioning of teaching hospital boards.
