@@ -34,6 +34,7 @@ The study involved the determination of the prevalence and pattern of CHDs in a 
 ## 3. Power BI Skillset
 This section shows dashboards designed using MS Power BI.
 ![alt text](images/pbi_dat.PNG)
+![alt text](images/mal_ghana.PNG)
 
 ## 4. ODK XLS Form Development for Neonatal Admission Proforma Study at Cape Coast Teaching Hospital
 I led the design and deployment of electronic data collection tools for clinical research leveraging on ODK server.
