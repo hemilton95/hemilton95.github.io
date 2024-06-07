@@ -24,7 +24,17 @@ Public Health Informatics
 - Led quantitative, qualitative, and meta-analysis research
 - Conducted literature reviews, and designed research methodologies for studies.
 
-## Projects
+# Projects
+### Analysis of determinants and correlates of hypertension
+The study aimed to determine the risk factors of hypertension. It also answers the association between demographic variables and hypertension.
+Data was imported into R studio, packages such as tidyverse, summarytools, ggplot, and etcetera were used for data cleaning, and analysis.
+Below are some presentations of results.
+![alt text](images/box_plot_sex.png)
+![alt text](images/age_weight_cor.png)
+![alt text](images/facet_chart_religion_sex.png)
+![alt text](images/summ_tools.PNG)
+![alt text](images/table.PNG)
+
 ### Prevalence of congenital heart diseases (CHD) in the population-based studies and the hospital-based studies
 The study involved the determination of the prevalence and pattern of CHDs in a population and hospital-based setting. Meta-analysis was conducted to identify statistical significance with studies that have conflicting results. To develop a more correct estimate of effect magnitude. 
 ![alt text](images/funnel_plot_hospital.png)
