@@ -35,13 +35,13 @@ The study involved the determination of the prevalence and pattern of CHDs in a 
 This section shows dashboards designed using MS Power BI.
 ![alt text](images/pbi_dat.PNG)
 
-## 4. ODK XLS Form Development
+## 4. ODK XLS Form Development for Neonatal Admission Proforma Study at Cape Coast Teaching Hospital
 I led the design and deployment of electronic data collection tools for clinical research leveraging on ODK server.
 **[A link to the XLS form used for this study](https://docs.google.com/spreadsheets/d/1yqK-CSz6mz5PmnI3Ib46dz1Vnb2j17Xj/edit?usp=sharing&ouid=103805631759623650249&rtpof=true&sd=true)**
 
 ## 5. Developed and Configured Electronic Health Records System on EPI Info
 After completing my internship at Ghana Health Service in 2019, I realized a particular need in the district I served. There was a need for an electronic health record system to handle patient data. As a health information officer, I started looking for ways to help them out. I reviewed how effectively I could use Epi Info to help them. I learned that to have a good EHR, whatever option set or parameter I use should meet the objective. I took the patient folder and developed an EHR using Epi Info. Later on, I targeted one facility in the best performing sub-district, installed the software on their laptop, added the prj file, and left for Cape Coast.
-This has been a blessing, looking at what a mere local database can do. It has reduced the cost of purchasing hard copies for paper records keeping as well as reduced patient stay or waiting hours during health care. 
+It has reduced the cost of purchasing hard copies for paper records keeping as well as reduced patient stay or waiting hours during health care. 
 **[Just watch this short video about the project ](https://www.linkedin.com/feed/update/urn:li:activity:6933176829847482368/)**
 
 ## 6. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach.
