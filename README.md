@@ -43,7 +43,7 @@ I led the design and deployment of electronic data collection tools for clinical
 ## 5. DHIS2 Customization
 The purpose of the project was to create an aggregate data collection tool for health data.
 Relevant metadata such as organization units, data elements, and category combinations were created to produce the desired results.
-**[Overview of assignment](https://www.linkedin.com/in/milton-henschel/overlay/urn:li:fsd_profileProject:(ACoAAC4UkjkBp9XSoAN2RlpL1NQdI-S2q5WUto0,907608223)/skill-associations-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAC4UkjkBp9XSoAN2RlpL1NQdI-S2q5WUto0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1ilF3ls4QSivfRbJF%2Fw8Qw%3D%3D)**
+**[Overview of assignment](https://www.linkedin.com/in/milton-henschel/overlay/1706009628448/single-media-viewer?type=DOCUMENT&profileId=ACoAAC4UkjkBp9XSoAN2RlpL1NQdI-S2q5WUto0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwJ2fk9e2QvmUcWKgl1OJUg%3D%3D)**
 
 ## 6. Developed and Configured Electronic Health Records System on EPI Info
 After completing my internship at Ghana Health Service in 2019, I realized a particular need in the district I served. There was a need for an electronic health record system to handle patient data. As a health information officer, I started looking for ways to help them out. I reviewed how effectively I could use Epi Info to help them. I learned that to have a good EHR, whatever option set or parameter I use should meet the objective. I took the patient folder and developed an EHR using Epi Info. Later on, I targeted one facility in the best performing sub-district, installed the software on their laptop, added the prj file, and left for Cape Coast.
