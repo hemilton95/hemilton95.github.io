@@ -36,7 +36,7 @@ This section shows dashboards designed using MS Power BI.
 ![alt text](images/pbi_dat.PNG)
 ![alt text](images/mal_ghana.PNG)
 
-## 4. ODK XLS Form Development for Neonatal Admission Proforma Study at Cape Coast Teaching Hospital
+## 4. ODK XLS Form Development for Neonatal Admission Proforma Study 
 I led the design and deployment of electronic data collection tools for clinical research leveraging on ODK server.
 **[A link to the XLS form used for this study](https://docs.google.com/spreadsheets/d/1yqK-CSz6mz5PmnI3Ib46dz1Vnb2j17Xj/edit?usp=sharing&ouid=103805631759623650249&rtpof=true&sd=true)**
 
@@ -53,14 +53,22 @@ It has reduced the cost of purchasing hard copies for paper records keeping as w
 ## 7. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach
 The study examined the post-implementation of the amended Act 525, the change in structure in terms of the composition of teaching hospital boards and assessed the change in level functioning (if any) as well as to determine whether there is any association between key compositional factors the functioning of teaching hospital boards.
 
-## 8. Factors Influencing High Prevalence of Multi-Drug Resistance TB in Cape Coast Teaching Hospital
+## 8. Factors Influencing High Prevalence of Multi-Drug Resistance TB 
 The purpose of the study was to determine the factors influencing the high prevalence of multi-drug resistance TB in Cape Coast Teaching Hospital. The project was deployed on KoboToolbox and data was imported to STATA for data analysis.
 
-## 9. The Role of Social Support in Mitigating Academic Stress of Some Second Cycle School Students in The Wa Municipality of The Upper West Region of Ghana
+## 9. The Role of Social Support in Mitigating Academic Stress of Some Second Cycle School Students 
 The main objective of the study is to assess the role of social support in mitigating the academic stress of second-cycle school students.
 
-## 10. Prevalence and Correlates of Stillbirths Recorded at The Cape Coast Teaching Hospital (CCTH) from 2015-2021
-This study seeks to find out the prevalence of stillbirths recorded at CCTH within the time period and if the causes can be attributed to low socio-economic status, number of antenatal visits, and maternal or fetal conditions. I directly managed and analyzed the data for this project.
+## 10. Prevalence and Correlates of Stillbirths 
+This study seeks to find out the prevalence of stillbirths recorded in the period and if the causes can be attributed to low socio-economic status, number of antenatal visits, and maternal or fetal conditions. I directly managed and analyzed the data for this project.
 
-## 11. Assessment of Nurses Personal Counseling Competencies in Bereavement Care at the Tamale Teaching Hospital
-The aim of this project was to assess nurses’ competencies in bereavement and to identify their training needs. I served as the Data Analyst for this project and used SPSS to analyze the data for this study.
+## 11. Assessment of Nurses' Personal Counseling Competencies in Bereavement Care 
+The main objective of the study was to assess nurse’s competencies in bereavement and to identify their training needs.
+Data was analyzed using SPSS version 20 and presented as descriptive and inferential statistics. Analyzing the data was linear and its validity was constantly checked throughout the study by referring back to the raw data.
+Results as attached
+![alt text](images/g1.PNG)
+![alt text](images/g2.PNG)
+![alt text](images/g3.PNG)
+
+
+
