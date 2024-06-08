@@ -61,6 +61,10 @@ The main objective of the study is to assess the role of social support in mitig
 
 ## 10. Prevalence and Correlates of Stillbirths 
 This study seeks to find out the prevalence of stillbirths recorded in the period and if the causes can be attributed to low socio-economic status, number of antenatal visits, and maternal or fetal conditions. I directly managed and analyzed the data for this project.
+The data collected will be analyzed using Jamovi. Descriptive statistics using measures of frequency and central tendency will be done, as well as inferential statistics to draw out associations by testing hypothesis using chi-square test and t-test where applicable.
+Attached are the findings.
+![alt text](images/s1.PNG)
+![alt text](images/s2.PNG)
 
 ## 11. Assessment of Nurses' Personal Counseling Competencies in Bereavement Care 
 The main objective of the study was to assess nurse’s competencies in bereavement and to identify their training needs.
