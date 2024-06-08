@@ -55,7 +55,7 @@ Relevant metadata such as organization units, data elements, and category combin
 **[Overview of assignment](https://www.linkedin.com/in/milton-henschel/overlay/1706009628448/single-media-viewer?type=DOCUMENT&profileId=ACoAAC4UkjkBp9XSoAN2RlpL1NQdI-S2q5WUto0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwJ2fk9e2QvmUcWKgl1OJUg%3D%3D)**
 
 ## 6. Developed and Configured Electronic Health Records System on EPI Info
-After completing my internship at Ghana Health Service in 2019, I realized a particular need in the district I served. There was a need for an electronic health record system to handle patient data. As a health information officer, I started looking for ways to help them out. I reviewed how effectively I could use Epi Info to help them. I learned that to have a good EHR, whatever option set or parameter I use should meet the objective. I took the patient folder and developed an EHR using Epi Info. Later on, I targeted one facility in the best performing sub-district, installed the software on their laptop, added the prj file, and left for Cape Coast.
+After completing my internship at Ghana Health Service in 2019, I realized a particular need in the district I served. There was a need for an electronic health record system to handle patient data. As a health information officer, I started looking for ways to help them out. I reviewed how effectively I could use Epi Info to help them. I learned that to have a good EHR, whatever option set or parameter I use should meet the objective. I took the patient folder and developed an EHR using Epi Info. 
 It has reduced the cost of purchasing hard copies for paper records keeping as well as reduced patient stay or waiting hours during health care. 
 **[Just watch this short video about the project ](https://www.linkedin.com/feed/update/urn:li:activity:6933176829847482368/)**
 
@@ -65,7 +65,7 @@ The study examined the post-implementation of the amended Act 525, the change in
 ![alt text](images/m2.PNG)
 
 ## 8. Factors Influencing High Prevalence of Multi-Drug Resistance TB 
-The purpose of the study was to determine the factors influencing the high prevalence of multi-drug resistance TB in Cape Coast Teaching Hospital. The project was deployed on KoboToolbox and data was imported to STATA for data analysis.
+The purpose of the study was to determine the factors influencing the high prevalence of multi-drug resistance TB. The project was deployed on KoboToolbox and data was imported to STATA for data analysis.
 
 ## 9. The Role of Social Support in Mitigating Academic Stress of Some Second Cycle School Students 
 The main objective of the study is to assess the role of social support in mitigating the academic stress of second-cycle school students.
