@@ -74,5 +74,8 @@ Results as attached
 ![alt text](images/g2.PNG)
 ![alt text](images/g3.PNG)
 
+## 12. Investigating The Impact of New Castle Disease
+Statistical Package for Social Sciences (SPSS, version 21) and Microsoft Excel were used for cleaning and analysis of the data.
+![alt text](images/n1.PNG)
 
 
