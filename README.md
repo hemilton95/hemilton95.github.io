@@ -3,7 +3,7 @@ Milton is a dynamic and results-oriented Data Specialist with over 5 years of ex
 
 ## Technical Proficiencies
 #### Programming Languages
-Python, SQL, R
+Python, SQL, R, HTML, and CSS
 #### Tools & Platforms
 Excel, Stata, SPSS, Access, Google Sheets, Jupyter Notebook, Looker, Tableau, Power BI, Linux, DHIS2, ODK, CommCare Kobo Toolbox, LHIMS, and PowerPoint.
 Core Competencies: Data Analysis, Project Coordination, Monitoring, Evaluation, and Learning, Digital Health, Data Visualization, and Research.
