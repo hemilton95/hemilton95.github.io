@@ -52,6 +52,8 @@ It has reduced the cost of purchasing hard copies for paper records keeping as w
 
 ## 7. The Implementation of The Amended Act 525 (2019) And Functioning of Teaching Hospital Boards in Ghana: A Survey Approach
 The study examined the post-implementation of the amended Act 525, the change in structure in terms of the composition of teaching hospital boards and assessed the change in level functioning (if any) as well as to determine whether there is any association between key compositional factors the functioning of teaching hospital boards.
+![alt text](images/m1.PNG)
+![alt text](images/m2.PNG)
 
 ## 8. Factors Influencing High Prevalence of Multi-Drug Resistance TB 
 The purpose of the study was to determine the factors influencing the high prevalence of multi-drug resistance TB in Cape Coast Teaching Hospital. The project was deployed on KoboToolbox and data was imported to STATA for data analysis.
