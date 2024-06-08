@@ -60,6 +60,9 @@ The purpose of the study was to determine the factors influencing the high preva
 
 ## 9. The Role of Social Support in Mitigating Academic Stress of Some Second Cycle School Students 
 The main objective of the study is to assess the role of social support in mitigating the academic stress of second-cycle school students.
+The results are attached below.
+![alt text](images/a1.PNG)
+![alt text](images/a2.PNG)
 
 ## 10. Prevalence and Correlates of Stillbirths 
 This study seeks to find out the prevalence of stillbirths recorded in the period and if the causes can be attributed to low socio-economic status, number of antenatal visits, and maternal or fetal conditions. I directly managed and analyzed the data for this project.
